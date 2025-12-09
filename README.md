@@ -19,7 +19,7 @@ Others: Order Priority
 
 Project Objectives :
 
-Using Excel & Power BI, this project aims to:
+Using Excel & Power BI, this project aims to :
 
 Analyze total sales by category & sub-category
 
